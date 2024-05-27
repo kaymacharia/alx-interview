@@ -1,0 +1,1 @@
+Pascal's triangle is a fascinating mathematical construct named after the French mathematician Blaise Pascal, although it was known to many mathematicians around the world before his time. It's constructed by starting with a single 1 at the top, and each subsequent row is constructed by adding the two numbers directly above it.

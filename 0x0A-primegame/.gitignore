@@ -1,0 +1,9 @@
+###
+rg
+*.out
+test*
+*test
+TAGS
+tags
+test*/
+*test/
